@@ -1,0 +1,11 @@
+Item,Quantity,Purpose,Cost_Per_Item_USD,Distributor,Link
+ESP32 board (LOLIN C3 Mini or similar),1,Main microcontroller that connects to WiFi and runs the Spotify display firmware,0.00,TODO,TODO
+1.8" TFT display (ST7735),1,Screen that shows the current artist and track,0.00,TODO,TODO
+Tactile / keyboard switches,3,Buttons for future controls (e.g. skip, play/pause, previous),0.00,TODO,TODO
+M3 heat-set inserts,4,Threaded inserts to screw the case together securely,0.00,TODO,TODO
+M3 screws (for inserts),4,Screws that go into the heat-set inserts to hold the case,0.00,TODO,TODO
+Jumper wires / dupont cables,1 set,Connect ESP32 pins to the TFT and switches,0.00,TODO,TODO
+USB cable (for ESP32),1,Power and programming connection from computer to ESP32,0.00,TODO,TODO
+3D printing filament (PLA),1,"Material for printing the case and lid; estimate cost for the amount used, not a full spool",0.00,TODO,TODO
+Breadboard or prototyping wires (optional),1,Helps with temporary wiring during testing before final assembly,0.00,TODO,TODO
+Misc. solder / tools (optional),1,"Consumables used for soldering pins and wires, if applicable",0.00,TODO,TODO
