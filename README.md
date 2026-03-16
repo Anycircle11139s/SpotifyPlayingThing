@@ -12,7 +12,7 @@ My Spotify Display is a small desktop device that shows the current song playing
 - 3D‑printed case that holds the screen and ESP32.
 
 Images:
-<img width="842" height="702" alt="Screenshot 2026-03-11 at 12 23 12 am" src="https://github.com/user-attachments/assets/e5597164-ec71-48ab-b8bf-214cc608a32d" />
+<img width="842" height="702" alt="Screenshot 2026-03-11 at 12 23 12 am" src="[https://github.com/user-attachments/assets/e5597164-ec71-48ab-b8bf-214cc608a32d](https://github.com/Anycircle11139s/SpotifyPlayingThing/blob/main/images/sup.png?raw=true)" />
 <img width="1104" height="875" alt="Screenshot 2026-03-11 at 12 22 24 am" src="https://github.com/user-attachments/assets/b6c059e1-c506-47e5-bf7c-3d077d9a605b" />
 
 ## Bill of Materials
